@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/backicon.png</file>
+        <file>images/music.png</file>
+        <file>NextFile.qml</file>
+        <file>SecondPage.qml</file>
+        <file>Music.qml</file>
+        <file>Ilayaraja.mp3</file>
+        <file>jd.mp3</file>
+        <file>kavithaiye.mp3</file>
+        <file>vaali.mp3</file>
+        <file>Virumandi.mp3</file>
+        <file>geetha.mp3</file>
+        <file>Vannarapettaiyilla.mp3</file>
+        <file>images/logo1.png</file>
+        <file>images/play.png</file>
+        <file>images/previous.png</file>
+        <file>images/geetha.jpg</file>
+        <file>images/ilaiyaraja.jpg</file>
+        <file>images/kavithaiye.jpg</file>
+        <file>images/vaali.jpg</file>
+        <file>images/virumandi.jpg</file>
+        <file>images/Vannarapettaiyila.jpg</file>
+        <file>images/yaaradi.jpg</file>
+        <file>Yuvan.mp3</file>
+        <file>images/pause1.png</file>
+        <file>StackPageview.qml</file>
+        <file>Viewlist.qml</file>
+    </qresource>
+</RCC>
